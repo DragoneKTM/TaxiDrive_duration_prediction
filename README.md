@@ -5,3 +5,5 @@ Kaggle competition description:<br>
 In the notebook folder are stored 2 python files: the first one (preprocessing) is responsible for the cleaning and management of the original data to obtain a trainable dataset, the latter for training a set of models with the goal of finding the best one in order to process the final test results.
 
 Moreover, in the data folder are presented the dataset used as input for each notebook.
+
+Link for the slides presentation: https://docs.google.com/presentation/d/1SfIQ7KPQ-xffLFOuazakIvy1Plm6xFV7KVCc7jSZz7E/edit?usp=sharing
